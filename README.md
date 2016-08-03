@@ -13,7 +13,7 @@
 	<h2>name: {user.name}</h2>
 	<p>age: {user.age}</p>
 	<p>content: {content}</p>
-	<p>That\'s all</p>
+	<p>That s all</p>
 </script>
 ```
 
